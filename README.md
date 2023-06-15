@@ -3,7 +3,7 @@
 Simple Todo App created with React.js as a practice
 
 ## Screenshoots
-![Screenshoot](https://ibb.co/Qk21DqJ)
+![Imgur](https://i.imgur.com/lZNS3Xy.jpg)
 
 ## Usage
 To install use the command: 
