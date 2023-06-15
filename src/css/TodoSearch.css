@@ -1,0 +1,11 @@
+.search{
+    grid-area: head;
+    width: 100%;
+    height: 20%;
+    place-self: center;
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+    background-color: #D8B8FF;
+    padding-left: 20px;
+}

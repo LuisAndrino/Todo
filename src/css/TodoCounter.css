@@ -1,0 +1,7 @@
+.h2-title{
+    color: #6C5C7F;
+    grid-area: head;
+    margin-bottom: 10%;
+    justify-self: center; 
+    font-weight: bolder;  
+}
