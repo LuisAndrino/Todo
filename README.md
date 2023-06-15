@@ -1,6 +1,7 @@
 # Simple-Todo 
 
-Simple Todo App created with React.js as a practice
+Simple Todo App created with React.js as a practice. You can visit the site [here.](https://luisandrino.github.io/Todo/)
+
 
 ## Screenshoots
 ![Imgur](https://i.imgur.com/lZNS3Xy.jpg)
