@@ -7,7 +7,7 @@ Simple Todo App created with React.js as a practice
 
 ## Usage
 To install use the command: 
-###             npm install
+`npm install`
 
 To run use the command:
-###             npm start
+`npm start`
